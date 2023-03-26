@@ -442,9 +442,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('💥 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 💥', url='https://t.me/+_-SVJARYJwA3NmJl'),
             ],[
-            InlineKeyboardButton('ᴘᴏᴡᴇʀᴇᴅ ʙʏ', url='https://t.me/Crimz_Bots')
+            InlineKeyboardButton('📍 ᴘᴏᴡᴇʀᴇᴅ ʙʏ 📍', url='https://t.me/Crimz_Bots')
             ],[
-            InlineKeyboardButton('ᴍᴏᴠɪᴇs ɢʀᴏᴜᴘ', url='https://t.me/MOVIESCLUB_GROUP')
+            InlineKeyboardButton('👥 ᴍᴏᴠɪᴇs ɢʀᴏᴜᴘ 👥', url='https://t.me/MOVIESCLUB_GROUP')
             ],[
             InlineKeyboardButton('💌 Aʙᴏᴜᴛ Aɴᴅ Iɴғᴏ 💌', callback_data= 'about')
             ],[
